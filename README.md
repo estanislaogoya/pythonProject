@@ -1,1 +1,3 @@
 # pythonProject
+
+Este es mi primer proyecto de Python, subido a GitHub...
