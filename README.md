@@ -1,3 +1,3 @@
-# pythonProject
+# ROFEF Implicit rate
 
-Este es mi primer proyecto de Python, subido a GitHub...
+Proyecto para calcular tasas implicitas de contratos de dólar futuro
